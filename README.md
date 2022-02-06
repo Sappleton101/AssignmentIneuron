@@ -1,2 +1,2 @@
-# AssignmentIneuron
+# Assignment Ineuron
 Ineuron Assignments 
